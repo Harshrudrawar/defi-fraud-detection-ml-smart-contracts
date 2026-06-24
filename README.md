@@ -37,7 +37,7 @@ to enable real-time fraud detection and automated mitigation.
 ## Proposed Architecture
 
 <p align="center">
-  <img src="figures/system_architecture_img.png" width="850">
+  <img src="figures/architecture.png" alt="System Architecture" width="900">
 </p>
 
 The framework consists of three coordinated layers:
