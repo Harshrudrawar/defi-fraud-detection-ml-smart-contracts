@@ -94,16 +94,15 @@ The framework consists of three coordinated layers:
 
 ## Publication
 
-Published in:
-
 **2025 IEEE International Conference on Blockchain and Distributed Systems Security (ICBDS)**
+
+**DOI:** https://doi.org/10.1109/ICBDS67396.2025.11377130
+
+**IEEE Xplore:** https://doi.org/10.1109/ICBDS67396.2025.11377130
 
 Copyright © IEEE.
 
-This repository contains supplementary research material and project information.
-
----
-
+This repository contains supplementary research material and project information. The final IEEE-published PDF is not distributed through this repository.
 ## Future Work
 
 * Federated Learning for privacy-preserving fraud detection

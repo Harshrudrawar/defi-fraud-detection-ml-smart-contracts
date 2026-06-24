@@ -1,22 +1,41 @@
 ﻿cff-version: 1.2.0
-message: "If you use this repository, please cite the paper."
-type: article
+
 title: "Fraud Detection in Decentralized Finance (DeFi) Transactions Using ML and Smart Contracts"
 
+message: >
+If you use this repository or build upon this research, please cite the
+associated IEEE conference paper.
+
+type: conference-paper
+
 authors:
-  - family-names: Rudrawar
-    given-names: Harsh
-  - family-names: Jakhete
-    given-names: Sumitra A.
-  - family-names: Somani
-    given-names: Dhanashree
+
+* family-names: Rudrawar
+  given-names: Harsh
+* family-names: Jakhete
+  given-names: Sumitra A.
+* family-names: Somani
+  given-names: Dhanashree
 
 year: 2025
 
+doi: 10.1109/ICBDS67396.2025.11377130
+
+url: https://doi.org/10.1109/ICBDS67396.2025.11377130
+
+conference:
+name: "2025 IEEE International Conference on Blockchain and Distributed Systems Security (ICBDS)"
+
 keywords:
-  - DeFi
-  - Blockchain
-  - Fraud Detection
-  - Machine Learning
-  - Smart Contracts
-  - Chainlink
+
+* Decentralized Finance
+* DeFi
+* Blockchain
+* Fraud Detection
+* Machine Learning
+* Smart Contracts
+* Chainlink
+* Ethereum
+* XGBoost
+
+repository-code: "https://github.com/Harshrudrawar/defi-fraud-detection-ml-smart-contracts"
